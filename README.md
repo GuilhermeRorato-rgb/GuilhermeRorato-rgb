@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner">
+</p>
+
 # Hi, I'm Guilherme Rorato 👋
 
 Economics undergraduate at FGV EESP interested in Investment Banking, Asset Management, Private Equity, Quantitative Finance and Artificial Intelligence.
