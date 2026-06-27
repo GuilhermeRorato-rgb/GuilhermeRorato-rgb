@@ -6,7 +6,25 @@ I develop projects involving financial analysis, valuation, quantitative models,
 
 ## Featured Projects
 
-🚧 Coming soon
+### 🧠 Business Decoder AI
+AI powered platform that helps investors understand companies through structured financial and business analysis.
+
+🔗 https://github.com/GuilhermeRorato-rgb/business-decoder-ai
+
+### 📊 Credit Analysis Framework
+Framework for analyzing Brazilian corporate issuers, including business model, financial statements, covenants, liquidity and stress testing.
+
+*(In development)*
+
+### 📈 Quantitative Finance
+Collection of quantitative finance projects, including portfolio construction, backtesting and statistical analysis.
+
+*(Coming soon)*
+
+### 🤖 Financial AI Projects
+AI applications focused on finance, investment research and productivity.
+
+*(Coming soon)*
 
 ## Education
 
