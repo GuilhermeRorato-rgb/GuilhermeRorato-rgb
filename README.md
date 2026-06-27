@@ -56,5 +56,5 @@ B.Sc. in Economics
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/SEU-LINK
-* Email: SEU_EMAIL
+* Email: guilhermerorato@icloud.com
 * Resume: [CV_Guilherme_Rorato.pdf](assets/CV_Guilherme_Rorato.pdf)
