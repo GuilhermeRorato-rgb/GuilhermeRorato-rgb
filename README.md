@@ -26,6 +26,24 @@ AI applications focused on finance, investment research and productivity.
 
 *(Coming soon)*
 
+## Technical Skills
+
+**Programming**
+
+Python • R • SQL • Excel • Git
+
+**Finance**
+
+Financial Modeling • Valuation • Credit Analysis • Corporate Finance • Portfolio Management
+
+**Data**
+
+Pandas • NumPy • Data Visualization • Statistical Analysis
+
+**Artificial Intelligence**
+
+LLMs • Prompt Engineering • AI Assisted Development
+
 ## Education
 
 **Fundação Getulio Vargas (FGV EESP)**  
