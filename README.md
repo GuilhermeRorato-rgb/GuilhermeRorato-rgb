@@ -53,6 +53,28 @@ LLMs • Prompt Engineering • AI Assisted Development
 **Fundação Getulio Vargas (FGV EESP)**  
 B.Sc. in Economics
 
+## Experience
+
+### Asset Allocation Intern | Apex Partners
+**Jun 2026 – Present**
+
+* Conduct asset allocation and macroeconomic research.
+* Analyze investment funds across multiple asset classes.
+* Build investment theses and support portfolio construction.
+* Develop quantitative analyses and financial models.
+
+### Summer Analyst | Apex Partners
+**Jan 2026**
+
+* Conducted equity research and company analysis.
+* Built valuation models and investment presentations.
+* Performed sector and macroeconomic research.
+
+## Certifications
+
+* Excel Expert – FGV Quant & Itaú Asset
+* Pre-MBA in Corporate Finance – Faculdade EXAME
+
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/SEU-LINK
