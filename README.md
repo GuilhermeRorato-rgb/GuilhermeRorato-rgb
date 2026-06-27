@@ -4,9 +4,9 @@
 
 # Hi, I'm Guilherme Rorato 👋
 
-Economics undergraduate at FGV EESP interested in Investment Banking, Asset Management, Private Equity, Quantitative Finance and Artificial Intelligence.
+I'm an Economics undergraduate at Fundação Getulio Vargas (FGV EESP) and currently an **Asset Allocation Intern at Apex Partners**.
 
-I develop projects involving financial analysis, valuation, quantitative models, credit analysis and AI applications for finance.
+My interests lie at the intersection of investment research, asset allocation, credit analysis, quantitative finance and artificial intelligence. Through this GitHub, I share projects involving financial modeling, AI applications, data analysis and research tools developed for finance.
 
 ## Featured Projects
 
