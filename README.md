@@ -17,4 +17,4 @@ B.Sc. in Economics
 
 * LinkedIn: https://www.linkedin.com/in/SEU-LINK
 * Email: SEU_EMAIL
-* Resume: Coming soon
+* Resume: [CV_Guilherme_Rorato.pdf](assets/CV_Guilherme_Rorato.pdf)
